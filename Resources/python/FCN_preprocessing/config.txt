@@ -1,0 +1,8 @@
+C:/ISR New/results/images/image
+C:/ISR New/results/labels/label
+C:/ISR New/results/result.txt
+265
+54.3772
+48.2668
+30.6408
+156

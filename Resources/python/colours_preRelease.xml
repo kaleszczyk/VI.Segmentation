@@ -1,0 +1,332 @@
+<Labels>
+ 
+
+    <Label>
+      <Name>tlo</Name>
+      <R>255</R>
+      <G>255</G>
+      <B>255</B>
+      <Type>0</Type>
+    </Label>
+
+    <Label>
+      <Name>object01</Name>
+      <R>87</R>
+      <G>27</G>
+      <B>126</B>
+      <Type>1</Type>
+    </Label>
+
+    <Label>
+      <Name>object02</Name>
+      <R>202</R>
+      <G>34</G>
+      <B>107</B>
+      <Type>2</Type>
+    </Label>
+
+    <Label>
+      <Name>object03</Name>
+      <R>244</R>
+      <G>51</G>
+      <B>255</B>
+      <Type>2</Type>
+    </Label>
+
+    <Label>
+      <Name>object04</Name>
+      <R>62</R>
+      <G>160</G>
+      <B>85</B>
+      <Type>3</Type>
+    </Label>
+
+    <Label>
+      <Name>object05</Name>
+      <R>135</R>
+      <G>247</G>
+      <B>23</B>
+      <Type>3</Type>
+    </Label>
+
+    <Label>
+      <Name>object06</Name>
+      <R>0</R>
+      <G>0</G>
+      <B>255</B>
+      <Type>3</Type>
+    </Label>
+
+    <Label>
+      <Name>object07</Name>
+      <R>255</R>
+      <G>0</G>
+      <B>0</B>
+      <Type>3</Type>
+    </Label>
+
+    <Label>
+      <Name>object08</Name>
+      <R>255</R>
+      <G>128</G>
+      <B>0</B>
+      <Type>3</Type>
+    </Label>
+
+    <Label>
+      <Name>object09</Name>
+      <R>198</R>
+      <G>226</G>
+      <B>255</B>
+      <Type>5</Type>
+    </Label>
+
+    <Label>
+      <Name>object10</Name>
+      <R>156</R>
+      <G>102</G>
+      <B>31</B>
+      <Type>4</Type>
+    </Label>
+
+    <Label>
+      <Name>object11</Name>
+      <R>255</R>
+      <G>0</G>
+      <B>255</B>
+      <Type>3</Type>
+    </Label>
+
+    <Label>
+      <Name>object12</Name>
+      <R>0</R>
+      <G>255</G>
+      <B>255</B>
+      <Type>3</Type>
+    </Label>
+
+    <Label>
+      <Name>object13</Name>
+      <R>255</R>
+      <G>255</G>
+      <B>0</B>
+      <Type>3</Type>
+    </Label>
+
+    <Label>
+      <Name>object14</Name>
+      <R>191</R>
+      <G>255</G>
+      <B>0</B>
+      <Type>3</Type>
+    </Label>
+
+    <Label>
+      <Name>object15</Name>
+      <R>0</R>
+      <G>255</G>
+      <B>191</B>
+      <Type>3</Type>
+    </Label>
+
+    <Label>
+      <Name>object16</Name>
+      <R>230</R>
+      <G>230</G>
+      <B>230</B>
+      <Type>3</Type>
+    </Label>
+
+    <Label>
+      <Name>object17</Name>
+      <R>255</R>
+      <G>204</G>
+      <B>255</B>
+      <Type>3</Type>
+    </Label>
+
+    <Label>
+      <Name>object18</Name>
+      <R>77</R>
+      <G>0</G>
+      <B>77</B>
+      <Type>3</Type>
+    </Label>
+
+    <Label>
+      <Name>object19</Name>
+      <R>153</R>
+      <G>102</G>
+      <B>51</B>
+      <Type>3</Type>
+    </Label>
+
+    <Label>
+      <Name>object20</Name>
+      <R>115</R>
+      <G>128</G>
+      <B>77</B>
+      <Type>3</Type>
+    </Label>
+
+    <Label>
+      <Name>object21</Name>
+      <R>0</R>
+      <G>0</G>
+      <B>102</B>
+      <Type>3</Type>
+    </Label>
+
+    <Label>
+      <Name>object22</Name>
+      <R>255</R>
+      <G>255</G>
+      <B>230</B>
+      <Type>3</Type>
+    </Label>
+
+    <Label>
+      <Name>object23</Name>
+      <R>179</R>
+      <G>77</G>
+      <B>102</B>
+      <Type>3</Type>
+    </Label>
+
+    <Label>
+      <Name>object24</Name>
+      <R>179</R>
+      <G>102</G>
+      <B>255</B>
+      <Type>3</Type>
+    </Label>
+
+    <Label>
+      <Name>object25</Name>
+      <R>0</R>
+      <G>128</G>
+      <B>255</B>
+      <Type>3</Type>
+    </Label>
+
+    <Label>
+      <Name>object26</Name>
+      <R>53</R>
+      <G>0</G>
+      <B>200</B>
+      <Type>3</Type>
+    </Label>
+
+    <Label>
+      <Name>Object27</Name>
+      <R>170</R>
+      <G>40</G>
+      <B>0</B>
+      <Type>1</Type>
+    </Label>
+
+    <Label>
+      <Name>object28</Name>
+      <R>45</R>
+      <G>179</G>
+      <B>0</B>
+      <Type>3</Type>
+    </Label>
+
+    <Label>
+      <Name>object29</Name>
+      <R>4</R>
+      <G>90</G>
+      <B>190</B>
+      <Type>3</Type>
+    </Label>
+
+    <Label>
+      <Name>object30</Name>
+      <R>51</R>
+      <G>250</G>
+      <B>0</B>
+      <Type>3</Type>
+    </Label>
+
+    <Label>
+      <Name>object31</Name>
+      <R>251</R>
+      <G>20</G>
+      <B>100</B>
+      <Type>3</Type>
+    </Label>
+
+    <Label>
+      <Name>object32</Name>
+      <R>4</R>
+      <G>50</G>
+      <B>180</B>
+      <Type>3</Type>
+    </Label>
+
+    <Label>
+      <Name>object33</Name>
+      <R>11</R>
+      <G>210</G>
+      <B>210</B>
+      <Type>3</Type>
+    </Label>
+
+    <Label>
+      <Name>object34</Name>
+      <R>44</R>
+      <G>200</G>
+      <B>250</B>
+      <Type>3</Type>
+    </Label>
+    <Label>
+      <Name>object35</Name>
+      <R>51</R>
+      <G>0</G>
+      <B>50</B>
+      <Type>3</Type>
+    </Label>
+    <Label>
+      <Name>object36</Name>
+      <R>200</R>
+      <G>200</G>
+      <B>0</B>
+      <Type>3</Type>
+    </Label>
+    <Label>
+      <Name>object37</Name>
+      <R>11</R>
+      <G>100</G>
+      <B>70</B>
+      <Type>3</Type>
+    </Label>
+    <Label>
+      <Name>object38</Name>
+      <R>90</R>
+      <G>0</G>
+      <B>250</B>
+      <Type>3</Type>
+    </Label>
+    <Label>
+      <Name>object39</Name>
+      <R>6</R>
+      <G>50</G>
+      <B>250</B>
+      <Type>3</Type>
+    </Label>
+    <Label>
+      <Name>object40</Name>
+      <R>80</R>
+      <G>78</G>
+      <B>10</B>
+      <Type>3</Type>
+    </Label>
+    <Label>
+      <Name>object41</Name>
+      <R>91</R>
+      <G>250</G>
+      <B>0</B>
+      <Type>3</Type>
+    </Label>    
+</Labels>
